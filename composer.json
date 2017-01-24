@@ -1,4 +1,5 @@
-"name": "donjesco/blockcmsijesco",
+{
+  "name": "donjesco/blockcmsijesco",
   "description": "PrestaShop module blockcmsijesco",
   "homepage": "https://github.com/donjesco/blockcmsijesco",
   "license": "AFL - Academic Free License (AFL 3.0)",
